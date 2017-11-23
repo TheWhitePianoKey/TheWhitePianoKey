@@ -1,0 +1,1134 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>The White Piano Key</title>
+	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>video - animation - music</description>
+	<lastBuildDate>Thu, 23 Nov 2017 14:11:37 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.3</generator>
+
+<image>
+	<url>/wp-content/uploads/2017/11/cropped-logo-trans-more-32x32.png</url>
+	<title>The White Piano Key</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Goya &#8211; Broove</title>
+		<link>/goya-broove/</link>
+		<pubDate>Wed, 13 Sep 2017 14:33:25 +0000</pubDate>
+		<dc:creator><![CDATA[TheWhitePianoKey]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">/?p=240</guid>
+		<description><![CDATA[<hr style="border-top:black solid 1px" /><a href="/goya-broove/">Goya &#8211; Broove</a> was first posted on September 13, 2017 at 2:33 pm.<br />&copy;2017 &quot;<a href="">The White Piano Key</a>&quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringement. Please contact me at <!--email_off-->arno.defacq@gmail.com<!--/email_off--><br />]]></description>
+				<content:encoded><![CDATA[<p><code class="plain plain">    <a href="/wp-content/uploads/2017/09/GOYA-Broove.mid" target="_self" class="emd_dl_grey">MIDI download</a>
+        <style type="text/css">
+    .emd_dl_grey {
+        -moz-box-shadow:inset 0px 1px 0px 0px #ffffff;
+        -webkit-box-shadow:inset 0px 1px 0px 0px #ffffff;
+        box-shadow:inset 0px 1px 0px 0px #ffffff;
+        background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #ededed), color-stop(1, #dfdfdf) );
+        background:-moz-linear-gradient( center top, #ededed 5%, #dfdfdf 100% );
+        filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#ededed', endColorstr='#dfdfdf');
+        background-color:#ededed;
+        -webkit-border-top-left-radius:0px;
+        -moz-border-radius-topleft:0px;
+        border-top-left-radius:0px;
+        -webkit-border-top-right-radius:0px;
+        -moz-border-radius-topright:0px;
+        border-top-right-radius:0px;
+        -webkit-border-bottom-right-radius:0px;
+        -moz-border-radius-bottomright:0px;
+        border-bottom-right-radius:0px;
+        -webkit-border-bottom-left-radius:0px;
+        -moz-border-radius-bottomleft:0px;
+        border-bottom-left-radius:0px;
+        text-indent:0;
+        border:1px solid #dcdcdc;
+        display:inline-block;
+        color:#777777 !important;
+        font-family:Georgia;
+        font-size:15px;
+        font-weight:bold;
+        font-style:normal;
+        height:41px;
+        line-height:41px;
+        width:153px;
+        text-decoration:none;
+        text-align:center;
+        text-shadow:1px 1px 0px #ffffff;
+    }
+    .emd_dl_grey:hover {
+        background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #dfdfdf), color-stop(1, #ededed) );
+        background:-moz-linear-gradient( center top, #dfdfdf 5%, #ededed 100% );
+        filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#dfdfdf', endColorstr='#ededed');
+        background-color:#dfdfdf;
+    }.emd_dl_grey:active {
+        position:relative;
+        top:1px;
+    }
+    </style>       <a href="/wp-content/uploads/2017/09/Goya-Broove-The-White-Piano-Key.pdf" target="_self" class="emd_dl_grey">SHEETS download</a>
+        <style type="text/css">
+    .emd_dl_grey {
+        -moz-box-shadow:inset 0px 1px 0px 0px #ffffff;
+        -webkit-box-shadow:inset 0px 1px 0px 0px #ffffff;
+        box-shadow:inset 0px 1px 0px 0px #ffffff;
+        background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #ededed), color-stop(1, #dfdfdf) );
+        background:-moz-linear-gradient( center top, #ededed 5%, #dfdfdf 100% );
+        filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#ededed', endColorstr='#dfdfdf');
+        background-color:#ededed;
+        -webkit-border-top-left-radius:0px;
+        -moz-border-radius-topleft:0px;
+        border-top-left-radius:0px;
+        -webkit-border-top-right-radius:0px;
+        -moz-border-radius-topright:0px;
+        border-top-right-radius:0px;
+        -webkit-border-bottom-right-radius:0px;
+        -moz-border-radius-bottomright:0px;
+        border-bottom-right-radius:0px;
+        -webkit-border-bottom-left-radius:0px;
+        -moz-border-radius-bottomleft:0px;
+        border-bottom-left-radius:0px;
+        text-indent:0;
+        border:1px solid #dcdcdc;
+        display:inline-block;
+        color:#777777 !important;
+        font-family:Georgia;
+        font-size:15px;
+        font-weight:bold;
+        font-style:normal;
+        height:41px;
+        line-height:41px;
+        width:153px;
+        text-decoration:none;
+        text-align:center;
+        text-shadow:1px 1px 0px #ffffff;
+    }
+    .emd_dl_grey:hover {
+        background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #dfdfdf), color-stop(1, #ededed) );
+        background:-moz-linear-gradient( center top, #dfdfdf 5%, #ededed 100% );
+        filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#dfdfdf', endColorstr='#ededed');
+        background-color:#dfdfdf;
+    }.emd_dl_grey:active {
+        position:relative;
+        top:1px;
+    }
+    </style>       <a href="/wp-content/uploads/2017/09/GOYA-BY-BROOVE-TheWhitePianoKey.mp3" target="_self" class="emd_dl_grey">MP3 download</a>
+        <style type="text/css">
+    .emd_dl_grey {
+        -moz-box-shadow:inset 0px 1px 0px 0px #ffffff;
+        -webkit-box-shadow:inset 0px 1px 0px 0px #ffffff;
+        box-shadow:inset 0px 1px 0px 0px #ffffff;
+        background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #ededed), color-stop(1, #dfdfdf) );
+        background:-moz-linear-gradient( center top, #ededed 5%, #dfdfdf 100% );
+        filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#ededed', endColorstr='#dfdfdf');
+        background-color:#ededed;
+        -webkit-border-top-left-radius:0px;
+        -moz-border-radius-topleft:0px;
+        border-top-left-radius:0px;
+        -webkit-border-top-right-radius:0px;
+        -moz-border-radius-topright:0px;
+        border-top-right-radius:0px;
+        -webkit-border-bottom-right-radius:0px;
+        -moz-border-radius-bottomright:0px;
+        border-bottom-right-radius:0px;
+        -webkit-border-bottom-left-radius:0px;
+        -moz-border-radius-bottomleft:0px;
+        border-bottom-left-radius:0px;
+        text-indent:0;
+        border:1px solid #dcdcdc;
+        display:inline-block;
+        color:#777777 !important;
+        font-family:Georgia;
+        font-size:15px;
+        font-weight:bold;
+        font-style:normal;
+        height:41px;
+        line-height:41px;
+        width:153px;
+        text-decoration:none;
+        text-align:center;
+        text-shadow:1px 1px 0px #ffffff;
+    }
+    .emd_dl_grey:hover {
+        background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #dfdfdf), color-stop(1, #ededed) );
+        background:-moz-linear-gradient( center top, #dfdfdf 5%, #ededed 100% );
+        filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#dfdfdf', endColorstr='#ededed');
+        background-color:#dfdfdf;
+    }.emd_dl_grey:active {
+        position:relative;
+        top:1px;
+    }
+    </style></code><br />
+<iframe width="688" height="387" src="https://www.youtube.com/embed/U9AGE8K8xfg?feature=oembed" frameborder="0" gesture="media" allowfullscreen></iframe></p>
+<hr style="border-top:black solid 1px" /><a href="/goya-broove/">Goya &#8211; Broove</a> was first posted on September 13, 2017 at 2:33 pm.<br />&copy;2017 &quot;<a href="">The White Piano Key</a>&quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringement. Please contact me at <!--email_off-->arno.defacq@gmail.com<!--/email_off--><br />]]></content:encoded>
+	<enclosure url="/wp-content/uploads/2017/09/GOYA-Broove.mid" length="10452" type="audio/midi" />
+<enclosure url="/wp-content/uploads/2017/09/GOYA-BY-BROOVE-TheWhitePianoKey.mp3" length="5475126" type="audio/mpeg" />
+		</item>
+		<item>
+		<title>World&#8217;s End ~Chikyuu no Hate~ (pf ver.) &#8211; Lovely Complex OST</title>
+		<link>/worlds-end-chikyuu-no-hate-pf-ver-lovely-complex-ost/</link>
+		<pubDate>Wed, 13 Sep 2017 13:06:25 +0000</pubDate>
+		<dc:creator><![CDATA[TheWhitePianoKey]]></dc:creator>
+				<category><![CDATA[Sheets]]></category>
+
+		<guid isPermaLink="false">/?p=235</guid>
+		<description><![CDATA[<hr style="border-top:black solid 1px" /><a href="/worlds-end-chikyuu-no-hate-pf-ver-lovely-complex-ost/">World&#8217;s End ~Chikyuu no Hate~ (pf ver.) &#8211; Lovely Complex OST</a> was first posted on September 13, 2017 at 1:06 pm.<br />&copy;2017 &quot;<a href="">The White Piano Key</a>&quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringement. Please contact me at <!--email_off-->arno.defacq@gmail.com<!--/email_off--><br />]]></description>
+				<content:encoded><![CDATA[<p><code class="plain plain">    <a href="/wp-content/uploads/2017/09/Lovely-Complex-OST-Worlds-End-Chikyuu-no-Hate-pf-ver..mid" target="_self" class="emd_dl_grey">MIDI download</a>
+        <style type="text/css">
+    .emd_dl_grey {
+        -moz-box-shadow:inset 0px 1px 0px 0px #ffffff;
+        -webkit-box-shadow:inset 0px 1px 0px 0px #ffffff;
+        box-shadow:inset 0px 1px 0px 0px #ffffff;
+        background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #ededed), color-stop(1, #dfdfdf) );
+        background:-moz-linear-gradient( center top, #ededed 5%, #dfdfdf 100% );
+        filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#ededed', endColorstr='#dfdfdf');
+        background-color:#ededed;
+        -webkit-border-top-left-radius:0px;
+        -moz-border-radius-topleft:0px;
+        border-top-left-radius:0px;
+        -webkit-border-top-right-radius:0px;
+        -moz-border-radius-topright:0px;
+        border-top-right-radius:0px;
+        -webkit-border-bottom-right-radius:0px;
+        -moz-border-radius-bottomright:0px;
+        border-bottom-right-radius:0px;
+        -webkit-border-bottom-left-radius:0px;
+        -moz-border-radius-bottomleft:0px;
+        border-bottom-left-radius:0px;
+        text-indent:0;
+        border:1px solid #dcdcdc;
+        display:inline-block;
+        color:#777777 !important;
+        font-family:Georgia;
+        font-size:15px;
+        font-weight:bold;
+        font-style:normal;
+        height:41px;
+        line-height:41px;
+        width:153px;
+        text-decoration:none;
+        text-align:center;
+        text-shadow:1px 1px 0px #ffffff;
+    }
+    .emd_dl_grey:hover {
+        background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #dfdfdf), color-stop(1, #ededed) );
+        background:-moz-linear-gradient( center top, #dfdfdf 5%, #ededed 100% );
+        filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#dfdfdf', endColorstr='#ededed');
+        background-color:#dfdfdf;
+    }.emd_dl_grey:active {
+        position:relative;
+        top:1px;
+    }
+    </style>       <a href="/wp-content/uploads/2017/09/Worlds-End-Lovely-Complex-The-White-Piano-Key.pdf" target="_self" class="emd_dl_grey">SHEETS download</a>
+        <style type="text/css">
+    .emd_dl_grey {
+        -moz-box-shadow:inset 0px 1px 0px 0px #ffffff;
+        -webkit-box-shadow:inset 0px 1px 0px 0px #ffffff;
+        box-shadow:inset 0px 1px 0px 0px #ffffff;
+        background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #ededed), color-stop(1, #dfdfdf) );
+        background:-moz-linear-gradient( center top, #ededed 5%, #dfdfdf 100% );
+        filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#ededed', endColorstr='#dfdfdf');
+        background-color:#ededed;
+        -webkit-border-top-left-radius:0px;
+        -moz-border-radius-topleft:0px;
+        border-top-left-radius:0px;
+        -webkit-border-top-right-radius:0px;
+        -moz-border-radius-topright:0px;
+        border-top-right-radius:0px;
+        -webkit-border-bottom-right-radius:0px;
+        -moz-border-radius-bottomright:0px;
+        border-bottom-right-radius:0px;
+        -webkit-border-bottom-left-radius:0px;
+        -moz-border-radius-bottomleft:0px;
+        border-bottom-left-radius:0px;
+        text-indent:0;
+        border:1px solid #dcdcdc;
+        display:inline-block;
+        color:#777777 !important;
+        font-family:Georgia;
+        font-size:15px;
+        font-weight:bold;
+        font-style:normal;
+        height:41px;
+        line-height:41px;
+        width:153px;
+        text-decoration:none;
+        text-align:center;
+        text-shadow:1px 1px 0px #ffffff;
+    }
+    .emd_dl_grey:hover {
+        background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #dfdfdf), color-stop(1, #ededed) );
+        background:-moz-linear-gradient( center top, #dfdfdf 5%, #ededed 100% );
+        filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#dfdfdf', endColorstr='#ededed');
+        background-color:#dfdfdf;
+    }.emd_dl_grey:active {
+        position:relative;
+        top:1px;
+    }
+    </style>       <a href="/wp-content/uploads/2017/09/Lovely-Complex-OST-Worlds-End-Chikyuu-no-Hate-pf-ver.-The-White-Piano-Key.mp3" target="_self" class="emd_dl_grey">MP3 download</a>
+        <style type="text/css">
+    .emd_dl_grey {
+        -moz-box-shadow:inset 0px 1px 0px 0px #ffffff;
+        -webkit-box-shadow:inset 0px 1px 0px 0px #ffffff;
+        box-shadow:inset 0px 1px 0px 0px #ffffff;
+        background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #ededed), color-stop(1, #dfdfdf) );
+        background:-moz-linear-gradient( center top, #ededed 5%, #dfdfdf 100% );
+        filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#ededed', endColorstr='#dfdfdf');
+        background-color:#ededed;
+        -webkit-border-top-left-radius:0px;
+        -moz-border-radius-topleft:0px;
+        border-top-left-radius:0px;
+        -webkit-border-top-right-radius:0px;
+        -moz-border-radius-topright:0px;
+        border-top-right-radius:0px;
+        -webkit-border-bottom-right-radius:0px;
+        -moz-border-radius-bottomright:0px;
+        border-bottom-right-radius:0px;
+        -webkit-border-bottom-left-radius:0px;
+        -moz-border-radius-bottomleft:0px;
+        border-bottom-left-radius:0px;
+        text-indent:0;
+        border:1px solid #dcdcdc;
+        display:inline-block;
+        color:#777777 !important;
+        font-family:Georgia;
+        font-size:15px;
+        font-weight:bold;
+        font-style:normal;
+        height:41px;
+        line-height:41px;
+        width:153px;
+        text-decoration:none;
+        text-align:center;
+        text-shadow:1px 1px 0px #ffffff;
+    }
+    .emd_dl_grey:hover {
+        background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #dfdfdf), color-stop(1, #ededed) );
+        background:-moz-linear-gradient( center top, #dfdfdf 5%, #ededed 100% );
+        filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#dfdfdf', endColorstr='#ededed');
+        background-color:#dfdfdf;
+    }.emd_dl_grey:active {
+        position:relative;
+        top:1px;
+    }
+    </style></code><br />
+<iframe width="688" height="387" src="https://www.youtube.com/embed/o_sHQ7jPXOw?feature=oembed" frameborder="0" allowfullscreen></iframe></p>
+<hr style="border-top:black solid 1px" /><a href="/worlds-end-chikyuu-no-hate-pf-ver-lovely-complex-ost/">World&#8217;s End ~Chikyuu no Hate~ (pf ver.) &#8211; Lovely Complex OST</a> was first posted on September 13, 2017 at 1:06 pm.<br />&copy;2017 &quot;<a href="">The White Piano Key</a>&quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringement. Please contact me at <!--email_off-->arno.defacq@gmail.com<!--/email_off--><br />]]></content:encoded>
+	<enclosure url="/wp-content/uploads/2017/09/Lovely-Complex-OST-Worlds-End-Chikyuu-no-Hate-pf-ver..mid" length="7750" type="audio/midi" />
+<enclosure url="/wp-content/uploads/2017/09/Lovely-Complex-OST-Worlds-End-Chikyuu-no-Hate-pf-ver.-The-White-Piano-Key.mp3" length="3266501" type="audio/mpeg" />
+		</item>
+		<item>
+		<title>Sepulchre 1891 &#8211; Kate Mosse</title>
+		<link>/sepulchre-1891-kate-mosse/</link>
+		<pubDate>Wed, 13 Sep 2017 13:04:10 +0000</pubDate>
+		<dc:creator><![CDATA[TheWhitePianoKey]]></dc:creator>
+				<category><![CDATA[Sheets]]></category>
+
+		<guid isPermaLink="false">/?p=231</guid>
+		<description><![CDATA[<hr style="border-top:black solid 1px" /><a href="/sepulchre-1891-kate-mosse/">Sepulchre 1891 &#8211; Kate Mosse</a> was first posted on September 13, 2017 at 1:04 pm.<br />&copy;2017 &quot;<a href="">The White Piano Key</a>&quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringement. Please contact me at <!--email_off-->arno.defacq@gmail.com<!--/email_off--><br />]]></description>
+				<content:encoded><![CDATA[<p><code class="plain plain">    <a href="/wp-content/uploads/2017/09/Kate-Mosse-Sepulchre-1891.mid" target="_self" class="emd_dl_grey">MIDI download</a>
+        <style type="text/css">
+    .emd_dl_grey {
+        -moz-box-shadow:inset 0px 1px 0px 0px #ffffff;
+        -webkit-box-shadow:inset 0px 1px 0px 0px #ffffff;
+        box-shadow:inset 0px 1px 0px 0px #ffffff;
+        background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #ededed), color-stop(1, #dfdfdf) );
+        background:-moz-linear-gradient( center top, #ededed 5%, #dfdfdf 100% );
+        filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#ededed', endColorstr='#dfdfdf');
+        background-color:#ededed;
+        -webkit-border-top-left-radius:0px;
+        -moz-border-radius-topleft:0px;
+        border-top-left-radius:0px;
+        -webkit-border-top-right-radius:0px;
+        -moz-border-radius-topright:0px;
+        border-top-right-radius:0px;
+        -webkit-border-bottom-right-radius:0px;
+        -moz-border-radius-bottomright:0px;
+        border-bottom-right-radius:0px;
+        -webkit-border-bottom-left-radius:0px;
+        -moz-border-radius-bottomleft:0px;
+        border-bottom-left-radius:0px;
+        text-indent:0;
+        border:1px solid #dcdcdc;
+        display:inline-block;
+        color:#777777 !important;
+        font-family:Georgia;
+        font-size:15px;
+        font-weight:bold;
+        font-style:normal;
+        height:41px;
+        line-height:41px;
+        width:153px;
+        text-decoration:none;
+        text-align:center;
+        text-shadow:1px 1px 0px #ffffff;
+    }
+    .emd_dl_grey:hover {
+        background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #dfdfdf), color-stop(1, #ededed) );
+        background:-moz-linear-gradient( center top, #dfdfdf 5%, #ededed 100% );
+        filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#dfdfdf', endColorstr='#ededed');
+        background-color:#dfdfdf;
+    }.emd_dl_grey:active {
+        position:relative;
+        top:1px;
+    }
+    </style>       <a href="/wp-content/uploads/2017/09/sepulchre-1891-Kate-Mosse-Sheets-piano.pdf" target="_self" class="emd_dl_grey">SHEETS download</a>
+        <style type="text/css">
+    .emd_dl_grey {
+        -moz-box-shadow:inset 0px 1px 0px 0px #ffffff;
+        -webkit-box-shadow:inset 0px 1px 0px 0px #ffffff;
+        box-shadow:inset 0px 1px 0px 0px #ffffff;
+        background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #ededed), color-stop(1, #dfdfdf) );
+        background:-moz-linear-gradient( center top, #ededed 5%, #dfdfdf 100% );
+        filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#ededed', endColorstr='#dfdfdf');
+        background-color:#ededed;
+        -webkit-border-top-left-radius:0px;
+        -moz-border-radius-topleft:0px;
+        border-top-left-radius:0px;
+        -webkit-border-top-right-radius:0px;
+        -moz-border-radius-topright:0px;
+        border-top-right-radius:0px;
+        -webkit-border-bottom-right-radius:0px;
+        -moz-border-radius-bottomright:0px;
+        border-bottom-right-radius:0px;
+        -webkit-border-bottom-left-radius:0px;
+        -moz-border-radius-bottomleft:0px;
+        border-bottom-left-radius:0px;
+        text-indent:0;
+        border:1px solid #dcdcdc;
+        display:inline-block;
+        color:#777777 !important;
+        font-family:Georgia;
+        font-size:15px;
+        font-weight:bold;
+        font-style:normal;
+        height:41px;
+        line-height:41px;
+        width:153px;
+        text-decoration:none;
+        text-align:center;
+        text-shadow:1px 1px 0px #ffffff;
+    }
+    .emd_dl_grey:hover {
+        background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #dfdfdf), color-stop(1, #ededed) );
+        background:-moz-linear-gradient( center top, #dfdfdf 5%, #ededed 100% );
+        filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#dfdfdf', endColorstr='#ededed');
+        background-color:#dfdfdf;
+    }.emd_dl_grey:active {
+        position:relative;
+        top:1px;
+    }
+    </style>       <a href="/wp-content/uploads/2017/09/sepulchre-1891-Kate-Mosse-The-White-Piano-Key.mp3" target="_self" class="emd_dl_grey">MP3 download</a>
+        <style type="text/css">
+    .emd_dl_grey {
+        -moz-box-shadow:inset 0px 1px 0px 0px #ffffff;
+        -webkit-box-shadow:inset 0px 1px 0px 0px #ffffff;
+        box-shadow:inset 0px 1px 0px 0px #ffffff;
+        background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #ededed), color-stop(1, #dfdfdf) );
+        background:-moz-linear-gradient( center top, #ededed 5%, #dfdfdf 100% );
+        filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#ededed', endColorstr='#dfdfdf');
+        background-color:#ededed;
+        -webkit-border-top-left-radius:0px;
+        -moz-border-radius-topleft:0px;
+        border-top-left-radius:0px;
+        -webkit-border-top-right-radius:0px;
+        -moz-border-radius-topright:0px;
+        border-top-right-radius:0px;
+        -webkit-border-bottom-right-radius:0px;
+        -moz-border-radius-bottomright:0px;
+        border-bottom-right-radius:0px;
+        -webkit-border-bottom-left-radius:0px;
+        -moz-border-radius-bottomleft:0px;
+        border-bottom-left-radius:0px;
+        text-indent:0;
+        border:1px solid #dcdcdc;
+        display:inline-block;
+        color:#777777 !important;
+        font-family:Georgia;
+        font-size:15px;
+        font-weight:bold;
+        font-style:normal;
+        height:41px;
+        line-height:41px;
+        width:153px;
+        text-decoration:none;
+        text-align:center;
+        text-shadow:1px 1px 0px #ffffff;
+    }
+    .emd_dl_grey:hover {
+        background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #dfdfdf), color-stop(1, #ededed) );
+        background:-moz-linear-gradient( center top, #dfdfdf 5%, #ededed 100% );
+        filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#dfdfdf', endColorstr='#ededed');
+        background-color:#dfdfdf;
+    }.emd_dl_grey:active {
+        position:relative;
+        top:1px;
+    }
+    </style></code><br />
+<iframe width="688" height="387" src="https://www.youtube.com/embed/09nt20OvKrg?feature=oembed" frameborder="0" allowfullscreen></iframe></p>
+<hr style="border-top:black solid 1px" /><a href="/sepulchre-1891-kate-mosse/">Sepulchre 1891 &#8211; Kate Mosse</a> was first posted on September 13, 2017 at 1:04 pm.<br />&copy;2017 &quot;<a href="">The White Piano Key</a>&quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringement. Please contact me at <!--email_off-->arno.defacq@gmail.com<!--/email_off--><br />]]></content:encoded>
+	<enclosure url="/wp-content/uploads/2017/09/Kate-Mosse-Sepulchre-1891.mid" length="6217" type="audio/midi" />
+<enclosure url="/wp-content/uploads/2017/09/sepulchre-1891-Kate-Mosse-The-White-Piano-Key.mp3" length="4563155" type="audio/mpeg" />
+		</item>
+		<item>
+		<title>Riverside &#8211; Agnes Obel</title>
+		<link>/riverside-agnes-obel/</link>
+		<pubDate>Wed, 13 Sep 2017 13:01:29 +0000</pubDate>
+		<dc:creator><![CDATA[TheWhitePianoKey]]></dc:creator>
+				<category><![CDATA[Sheets]]></category>
+
+		<guid isPermaLink="false">/?p=228</guid>
+		<description><![CDATA[<hr style="border-top:black solid 1px" /><a href="/riverside-agnes-obel/">Riverside &#8211; Agnes Obel</a> was first posted on September 13, 2017 at 1:01 pm.<br />&copy;2017 &quot;<a href="">The White Piano Key</a>&quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringement. Please contact me at <!--email_off-->arno.defacq@gmail.com<!--/email_off--><br />]]></description>
+				<content:encoded><![CDATA[<p><code class="plain plain">    <a href="/wp-content/uploads/2017/09/Riverside-Agnes-Obel-piano.mid" target="_self" class="emd_dl_grey">MIDI download</a>
+        <style type="text/css">
+    .emd_dl_grey {
+        -moz-box-shadow:inset 0px 1px 0px 0px #ffffff;
+        -webkit-box-shadow:inset 0px 1px 0px 0px #ffffff;
+        box-shadow:inset 0px 1px 0px 0px #ffffff;
+        background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #ededed), color-stop(1, #dfdfdf) );
+        background:-moz-linear-gradient( center top, #ededed 5%, #dfdfdf 100% );
+        filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#ededed', endColorstr='#dfdfdf');
+        background-color:#ededed;
+        -webkit-border-top-left-radius:0px;
+        -moz-border-radius-topleft:0px;
+        border-top-left-radius:0px;
+        -webkit-border-top-right-radius:0px;
+        -moz-border-radius-topright:0px;
+        border-top-right-radius:0px;
+        -webkit-border-bottom-right-radius:0px;
+        -moz-border-radius-bottomright:0px;
+        border-bottom-right-radius:0px;
+        -webkit-border-bottom-left-radius:0px;
+        -moz-border-radius-bottomleft:0px;
+        border-bottom-left-radius:0px;
+        text-indent:0;
+        border:1px solid #dcdcdc;
+        display:inline-block;
+        color:#777777 !important;
+        font-family:Georgia;
+        font-size:15px;
+        font-weight:bold;
+        font-style:normal;
+        height:41px;
+        line-height:41px;
+        width:153px;
+        text-decoration:none;
+        text-align:center;
+        text-shadow:1px 1px 0px #ffffff;
+    }
+    .emd_dl_grey:hover {
+        background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #dfdfdf), color-stop(1, #ededed) );
+        background:-moz-linear-gradient( center top, #dfdfdf 5%, #ededed 100% );
+        filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#dfdfdf', endColorstr='#ededed');
+        background-color:#dfdfdf;
+    }.emd_dl_grey:active {
+        position:relative;
+        top:1px;
+    }
+    </style>       <a href="/wp-content/uploads/2017/09/By-The-Riverside-Agnes-Obel-No-Lyrics-The-White-Piano-Key.pdf" target="_self" class="emd_dl_grey">SHEETS download (No lyrics)</a>
+        <style type="text/css">
+    .emd_dl_grey {
+        -moz-box-shadow:inset 0px 1px 0px 0px #ffffff;
+        -webkit-box-shadow:inset 0px 1px 0px 0px #ffffff;
+        box-shadow:inset 0px 1px 0px 0px #ffffff;
+        background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #ededed), color-stop(1, #dfdfdf) );
+        background:-moz-linear-gradient( center top, #ededed 5%, #dfdfdf 100% );
+        filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#ededed', endColorstr='#dfdfdf');
+        background-color:#ededed;
+        -webkit-border-top-left-radius:0px;
+        -moz-border-radius-topleft:0px;
+        border-top-left-radius:0px;
+        -webkit-border-top-right-radius:0px;
+        -moz-border-radius-topright:0px;
+        border-top-right-radius:0px;
+        -webkit-border-bottom-right-radius:0px;
+        -moz-border-radius-bottomright:0px;
+        border-bottom-right-radius:0px;
+        -webkit-border-bottom-left-radius:0px;
+        -moz-border-radius-bottomleft:0px;
+        border-bottom-left-radius:0px;
+        text-indent:0;
+        border:1px solid #dcdcdc;
+        display:inline-block;
+        color:#777777 !important;
+        font-family:Georgia;
+        font-size:15px;
+        font-weight:bold;
+        font-style:normal;
+        height:41px;
+        line-height:41px;
+        width:153px;
+        text-decoration:none;
+        text-align:center;
+        text-shadow:1px 1px 0px #ffffff;
+    }
+    .emd_dl_grey:hover {
+        background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #dfdfdf), color-stop(1, #ededed) );
+        background:-moz-linear-gradient( center top, #dfdfdf 5%, #ededed 100% );
+        filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#dfdfdf', endColorstr='#ededed');
+        background-color:#dfdfdf;
+    }.emd_dl_grey:active {
+        position:relative;
+        top:1px;
+    }
+    </style>       <a href="/wp-content/uploads/2017/09/By-The-Riverside-Agnes-Obel-With-Lyrics-The-White-Piano-Key.pdf" target="_self" class="emd_dl_grey">SHEETS download (With Lyrics)</a>
+        <style type="text/css">
+    .emd_dl_grey {
+        -moz-box-shadow:inset 0px 1px 0px 0px #ffffff;
+        -webkit-box-shadow:inset 0px 1px 0px 0px #ffffff;
+        box-shadow:inset 0px 1px 0px 0px #ffffff;
+        background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #ededed), color-stop(1, #dfdfdf) );
+        background:-moz-linear-gradient( center top, #ededed 5%, #dfdfdf 100% );
+        filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#ededed', endColorstr='#dfdfdf');
+        background-color:#ededed;
+        -webkit-border-top-left-radius:0px;
+        -moz-border-radius-topleft:0px;
+        border-top-left-radius:0px;
+        -webkit-border-top-right-radius:0px;
+        -moz-border-radius-topright:0px;
+        border-top-right-radius:0px;
+        -webkit-border-bottom-right-radius:0px;
+        -moz-border-radius-bottomright:0px;
+        border-bottom-right-radius:0px;
+        -webkit-border-bottom-left-radius:0px;
+        -moz-border-radius-bottomleft:0px;
+        border-bottom-left-radius:0px;
+        text-indent:0;
+        border:1px solid #dcdcdc;
+        display:inline-block;
+        color:#777777 !important;
+        font-family:Georgia;
+        font-size:15px;
+        font-weight:bold;
+        font-style:normal;
+        height:41px;
+        line-height:41px;
+        width:153px;
+        text-decoration:none;
+        text-align:center;
+        text-shadow:1px 1px 0px #ffffff;
+    }
+    .emd_dl_grey:hover {
+        background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #dfdfdf), color-stop(1, #ededed) );
+        background:-moz-linear-gradient( center top, #dfdfdf 5%, #ededed 100% );
+        filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#dfdfdf', endColorstr='#ededed');
+        background-color:#dfdfdf;
+    }.emd_dl_grey:active {
+        position:relative;
+        top:1px;
+    }
+    </style>       <a href="/wp-content/uploads/2017/09/riverside-Agnes-Obel-The-White-Piano-Key.mp3" target="_self" class="emd_dl_grey">MP3 download</a>
+        <style type="text/css">
+    .emd_dl_grey {
+        -moz-box-shadow:inset 0px 1px 0px 0px #ffffff;
+        -webkit-box-shadow:inset 0px 1px 0px 0px #ffffff;
+        box-shadow:inset 0px 1px 0px 0px #ffffff;
+        background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #ededed), color-stop(1, #dfdfdf) );
+        background:-moz-linear-gradient( center top, #ededed 5%, #dfdfdf 100% );
+        filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#ededed', endColorstr='#dfdfdf');
+        background-color:#ededed;
+        -webkit-border-top-left-radius:0px;
+        -moz-border-radius-topleft:0px;
+        border-top-left-radius:0px;
+        -webkit-border-top-right-radius:0px;
+        -moz-border-radius-topright:0px;
+        border-top-right-radius:0px;
+        -webkit-border-bottom-right-radius:0px;
+        -moz-border-radius-bottomright:0px;
+        border-bottom-right-radius:0px;
+        -webkit-border-bottom-left-radius:0px;
+        -moz-border-radius-bottomleft:0px;
+        border-bottom-left-radius:0px;
+        text-indent:0;
+        border:1px solid #dcdcdc;
+        display:inline-block;
+        color:#777777 !important;
+        font-family:Georgia;
+        font-size:15px;
+        font-weight:bold;
+        font-style:normal;
+        height:41px;
+        line-height:41px;
+        width:153px;
+        text-decoration:none;
+        text-align:center;
+        text-shadow:1px 1px 0px #ffffff;
+    }
+    .emd_dl_grey:hover {
+        background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #dfdfdf), color-stop(1, #ededed) );
+        background:-moz-linear-gradient( center top, #dfdfdf 5%, #ededed 100% );
+        filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#dfdfdf', endColorstr='#ededed');
+        background-color:#dfdfdf;
+    }.emd_dl_grey:active {
+        position:relative;
+        top:1px;
+    }
+    </style></code><br />
+<iframe width="688" height="387" src="https://www.youtube.com/embed/1rxOZPzURF8?feature=oembed" frameborder="0" allowfullscreen></iframe></p>
+<hr style="border-top:black solid 1px" /><a href="/riverside-agnes-obel/">Riverside &#8211; Agnes Obel</a> was first posted on September 13, 2017 at 1:01 pm.<br />&copy;2017 &quot;<a href="">The White Piano Key</a>&quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringement. Please contact me at <!--email_off-->arno.defacq@gmail.com<!--/email_off--><br />]]></content:encoded>
+	<enclosure url="/wp-content/uploads/2017/09/Riverside-Agnes-Obel-piano.mid" length="12751" type="audio/midi" />
+<enclosure url="/wp-content/uploads/2017/09/riverside-Agnes-Obel-The-White-Piano-Key.mp3" length="9337288" type="audio/mpeg" />
+		</item>
+		<item>
+		<title>Cruisin&#8217; &#8211; Sioen</title>
+		<link>/cruisin-sioen/</link>
+		<pubDate>Wed, 13 Sep 2017 12:58:38 +0000</pubDate>
+		<dc:creator><![CDATA[TheWhitePianoKey]]></dc:creator>
+				<category><![CDATA[Sheets]]></category>
+
+		<guid isPermaLink="false">/?p=225</guid>
+		<description><![CDATA[<hr style="border-top:black solid 1px" /><a href="/cruisin-sioen/">Cruisin&#8217; &#8211; Sioen</a> was first posted on September 13, 2017 at 12:58 pm.<br />&copy;2017 &quot;<a href="">The White Piano Key</a>&quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringement. Please contact me at <!--email_off-->arno.defacq@gmail.com<!--/email_off--><br />]]></description>
+				<content:encoded><![CDATA[<p><code class="plain plain">    <a href="/wp-content/uploads/2017/09/Sioen-Cruisin-Piano-sheets-The-White-Piano-Key.mid" target="_self" class="emd_dl_grey">MIDI download</a>
+        <style type="text/css">
+    .emd_dl_grey {
+        -moz-box-shadow:inset 0px 1px 0px 0px #ffffff;
+        -webkit-box-shadow:inset 0px 1px 0px 0px #ffffff;
+        box-shadow:inset 0px 1px 0px 0px #ffffff;
+        background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #ededed), color-stop(1, #dfdfdf) );
+        background:-moz-linear-gradient( center top, #ededed 5%, #dfdfdf 100% );
+        filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#ededed', endColorstr='#dfdfdf');
+        background-color:#ededed;
+        -webkit-border-top-left-radius:0px;
+        -moz-border-radius-topleft:0px;
+        border-top-left-radius:0px;
+        -webkit-border-top-right-radius:0px;
+        -moz-border-radius-topright:0px;
+        border-top-right-radius:0px;
+        -webkit-border-bottom-right-radius:0px;
+        -moz-border-radius-bottomright:0px;
+        border-bottom-right-radius:0px;
+        -webkit-border-bottom-left-radius:0px;
+        -moz-border-radius-bottomleft:0px;
+        border-bottom-left-radius:0px;
+        text-indent:0;
+        border:1px solid #dcdcdc;
+        display:inline-block;
+        color:#777777 !important;
+        font-family:Georgia;
+        font-size:15px;
+        font-weight:bold;
+        font-style:normal;
+        height:41px;
+        line-height:41px;
+        width:153px;
+        text-decoration:none;
+        text-align:center;
+        text-shadow:1px 1px 0px #ffffff;
+    }
+    .emd_dl_grey:hover {
+        background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #dfdfdf), color-stop(1, #ededed) );
+        background:-moz-linear-gradient( center top, #dfdfdf 5%, #ededed 100% );
+        filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#dfdfdf', endColorstr='#ededed');
+        background-color:#dfdfdf;
+    }.emd_dl_grey:active {
+        position:relative;
+        top:1px;
+    }
+    </style>       <a href="/wp-content/uploads/2017/09/Cruisin-Sioen-The-White-Piano-Key.pdf" target="_self" class="emd_dl_grey">SHEETS download</a>
+        <style type="text/css">
+    .emd_dl_grey {
+        -moz-box-shadow:inset 0px 1px 0px 0px #ffffff;
+        -webkit-box-shadow:inset 0px 1px 0px 0px #ffffff;
+        box-shadow:inset 0px 1px 0px 0px #ffffff;
+        background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #ededed), color-stop(1, #dfdfdf) );
+        background:-moz-linear-gradient( center top, #ededed 5%, #dfdfdf 100% );
+        filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#ededed', endColorstr='#dfdfdf');
+        background-color:#ededed;
+        -webkit-border-top-left-radius:0px;
+        -moz-border-radius-topleft:0px;
+        border-top-left-radius:0px;
+        -webkit-border-top-right-radius:0px;
+        -moz-border-radius-topright:0px;
+        border-top-right-radius:0px;
+        -webkit-border-bottom-right-radius:0px;
+        -moz-border-radius-bottomright:0px;
+        border-bottom-right-radius:0px;
+        -webkit-border-bottom-left-radius:0px;
+        -moz-border-radius-bottomleft:0px;
+        border-bottom-left-radius:0px;
+        text-indent:0;
+        border:1px solid #dcdcdc;
+        display:inline-block;
+        color:#777777 !important;
+        font-family:Georgia;
+        font-size:15px;
+        font-weight:bold;
+        font-style:normal;
+        height:41px;
+        line-height:41px;
+        width:153px;
+        text-decoration:none;
+        text-align:center;
+        text-shadow:1px 1px 0px #ffffff;
+    }
+    .emd_dl_grey:hover {
+        background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #dfdfdf), color-stop(1, #ededed) );
+        background:-moz-linear-gradient( center top, #dfdfdf 5%, #ededed 100% );
+        filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#dfdfdf', endColorstr='#ededed');
+        background-color:#dfdfdf;
+    }.emd_dl_grey:active {
+        position:relative;
+        top:1px;
+    }
+    </style>       <a href="/wp-content/uploads/2017/09/Cruisin-Sioen-The-White-Piano-Key.mp3" target="_self" class="emd_dl_grey">MP3 download</a>
+        <style type="text/css">
+    .emd_dl_grey {
+        -moz-box-shadow:inset 0px 1px 0px 0px #ffffff;
+        -webkit-box-shadow:inset 0px 1px 0px 0px #ffffff;
+        box-shadow:inset 0px 1px 0px 0px #ffffff;
+        background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #ededed), color-stop(1, #dfdfdf) );
+        background:-moz-linear-gradient( center top, #ededed 5%, #dfdfdf 100% );
+        filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#ededed', endColorstr='#dfdfdf');
+        background-color:#ededed;
+        -webkit-border-top-left-radius:0px;
+        -moz-border-radius-topleft:0px;
+        border-top-left-radius:0px;
+        -webkit-border-top-right-radius:0px;
+        -moz-border-radius-topright:0px;
+        border-top-right-radius:0px;
+        -webkit-border-bottom-right-radius:0px;
+        -moz-border-radius-bottomright:0px;
+        border-bottom-right-radius:0px;
+        -webkit-border-bottom-left-radius:0px;
+        -moz-border-radius-bottomleft:0px;
+        border-bottom-left-radius:0px;
+        text-indent:0;
+        border:1px solid #dcdcdc;
+        display:inline-block;
+        color:#777777 !important;
+        font-family:Georgia;
+        font-size:15px;
+        font-weight:bold;
+        font-style:normal;
+        height:41px;
+        line-height:41px;
+        width:153px;
+        text-decoration:none;
+        text-align:center;
+        text-shadow:1px 1px 0px #ffffff;
+    }
+    .emd_dl_grey:hover {
+        background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #dfdfdf), color-stop(1, #ededed) );
+        background:-moz-linear-gradient( center top, #dfdfdf 5%, #ededed 100% );
+        filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#dfdfdf', endColorstr='#ededed');
+        background-color:#dfdfdf;
+    }.emd_dl_grey:active {
+        position:relative;
+        top:1px;
+    }
+    </style></code><br />
+<iframe width="688" height="387" src="https://www.youtube.com/embed/UzX5JB1t8c0?feature=oembed" frameborder="0" allowfullscreen></iframe></p>
+<hr style="border-top:black solid 1px" /><a href="/cruisin-sioen/">Cruisin&#8217; &#8211; Sioen</a> was first posted on September 13, 2017 at 12:58 pm.<br />&copy;2017 &quot;<a href="">The White Piano Key</a>&quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringement. Please contact me at <!--email_off-->arno.defacq@gmail.com<!--/email_off--><br />]]></content:encoded>
+	<enclosure url="/wp-content/uploads/2017/09/Sioen-Cruisin-Piano-sheets-The-White-Piano-Key.mid" length="11225" type="audio/midi" />
+<enclosure url="/wp-content/uploads/2017/09/Cruisin-Sioen-The-White-Piano-Key.mp3" length="8962163" type="audio/mpeg" />
+		</item>
+		<item>
+		<title>Fairy Tail &#8211; Main theme</title>
+		<link>/fairy-tail-main-theme/</link>
+		<pubDate>Thu, 07 Sep 2017 16:10:45 +0000</pubDate>
+		<dc:creator><![CDATA[TheWhitePianoKey]]></dc:creator>
+				<category><![CDATA[Sheets]]></category>
+
+		<guid isPermaLink="false">/?p=114</guid>
+		<description><![CDATA[Full Pedal: Half Pedal:<hr style="border-top:black solid 1px" /><a href="/fairy-tail-main-theme/">Fairy Tail &#8211; Main theme</a> was first posted on September 7, 2017 at 4:10 pm.<br />&copy;2017 &quot;<a href="">The White Piano Key</a>&quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringement. Please contact me at <!--email_off-->arno.defacq@gmail.com<!--/email_off--><br />]]></description>
+				<content:encoded><![CDATA[<p><code class="plain plain"> Full Pedal:       <a href="/wp-content/uploads/2017/09/Main-Theme-Fairy-Tail-FULL-PEDAL.mid" target="_self" class="emd_dl_grey">MIDI download</a>
+        <style type="text/css">
+    .emd_dl_grey {
+        -moz-box-shadow:inset 0px 1px 0px 0px #ffffff;
+        -webkit-box-shadow:inset 0px 1px 0px 0px #ffffff;
+        box-shadow:inset 0px 1px 0px 0px #ffffff;
+        background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #ededed), color-stop(1, #dfdfdf) );
+        background:-moz-linear-gradient( center top, #ededed 5%, #dfdfdf 100% );
+        filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#ededed', endColorstr='#dfdfdf');
+        background-color:#ededed;
+        -webkit-border-top-left-radius:0px;
+        -moz-border-radius-topleft:0px;
+        border-top-left-radius:0px;
+        -webkit-border-top-right-radius:0px;
+        -moz-border-radius-topright:0px;
+        border-top-right-radius:0px;
+        -webkit-border-bottom-right-radius:0px;
+        -moz-border-radius-bottomright:0px;
+        border-bottom-right-radius:0px;
+        -webkit-border-bottom-left-radius:0px;
+        -moz-border-radius-bottomleft:0px;
+        border-bottom-left-radius:0px;
+        text-indent:0;
+        border:1px solid #dcdcdc;
+        display:inline-block;
+        color:#777777 !important;
+        font-family:Georgia;
+        font-size:15px;
+        font-weight:bold;
+        font-style:normal;
+        height:41px;
+        line-height:41px;
+        width:153px;
+        text-decoration:none;
+        text-align:center;
+        text-shadow:1px 1px 0px #ffffff;
+    }
+    .emd_dl_grey:hover {
+        background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #dfdfdf), color-stop(1, #ededed) );
+        background:-moz-linear-gradient( center top, #dfdfdf 5%, #ededed 100% );
+        filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#dfdfdf', endColorstr='#ededed');
+        background-color:#dfdfdf;
+    }.emd_dl_grey:active {
+        position:relative;
+        top:1px;
+    }
+    </style>       <a href="/wp-content/uploads/2017/09/Fairy-Tail-Full-Pedal-The-White-Piano-Key.pdf" target="_self" class="emd_dl_grey">SHEETS download</a>
+        <style type="text/css">
+    .emd_dl_grey {
+        -moz-box-shadow:inset 0px 1px 0px 0px #ffffff;
+        -webkit-box-shadow:inset 0px 1px 0px 0px #ffffff;
+        box-shadow:inset 0px 1px 0px 0px #ffffff;
+        background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #ededed), color-stop(1, #dfdfdf) );
+        background:-moz-linear-gradient( center top, #ededed 5%, #dfdfdf 100% );
+        filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#ededed', endColorstr='#dfdfdf');
+        background-color:#ededed;
+        -webkit-border-top-left-radius:0px;
+        -moz-border-radius-topleft:0px;
+        border-top-left-radius:0px;
+        -webkit-border-top-right-radius:0px;
+        -moz-border-radius-topright:0px;
+        border-top-right-radius:0px;
+        -webkit-border-bottom-right-radius:0px;
+        -moz-border-radius-bottomright:0px;
+        border-bottom-right-radius:0px;
+        -webkit-border-bottom-left-radius:0px;
+        -moz-border-radius-bottomleft:0px;
+        border-bottom-left-radius:0px;
+        text-indent:0;
+        border:1px solid #dcdcdc;
+        display:inline-block;
+        color:#777777 !important;
+        font-family:Georgia;
+        font-size:15px;
+        font-weight:bold;
+        font-style:normal;
+        height:41px;
+        line-height:41px;
+        width:153px;
+        text-decoration:none;
+        text-align:center;
+        text-shadow:1px 1px 0px #ffffff;
+    }
+    .emd_dl_grey:hover {
+        background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #dfdfdf), color-stop(1, #ededed) );
+        background:-moz-linear-gradient( center top, #dfdfdf 5%, #ededed 100% );
+        filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#dfdfdf', endColorstr='#ededed');
+        background-color:#dfdfdf;
+    }.emd_dl_grey:active {
+        position:relative;
+        top:1px;
+    }
+    </style>       <a href="/wp-content/uploads/2017/09/Fairy-Tail-Main-Theme-Full-Pedal-The-White-Piano-Key.mp3" target="_self" class="emd_dl_grey">MP3 download</a>
+        <style type="text/css">
+    .emd_dl_grey {
+        -moz-box-shadow:inset 0px 1px 0px 0px #ffffff;
+        -webkit-box-shadow:inset 0px 1px 0px 0px #ffffff;
+        box-shadow:inset 0px 1px 0px 0px #ffffff;
+        background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #ededed), color-stop(1, #dfdfdf) );
+        background:-moz-linear-gradient( center top, #ededed 5%, #dfdfdf 100% );
+        filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#ededed', endColorstr='#dfdfdf');
+        background-color:#ededed;
+        -webkit-border-top-left-radius:0px;
+        -moz-border-radius-topleft:0px;
+        border-top-left-radius:0px;
+        -webkit-border-top-right-radius:0px;
+        -moz-border-radius-topright:0px;
+        border-top-right-radius:0px;
+        -webkit-border-bottom-right-radius:0px;
+        -moz-border-radius-bottomright:0px;
+        border-bottom-right-radius:0px;
+        -webkit-border-bottom-left-radius:0px;
+        -moz-border-radius-bottomleft:0px;
+        border-bottom-left-radius:0px;
+        text-indent:0;
+        border:1px solid #dcdcdc;
+        display:inline-block;
+        color:#777777 !important;
+        font-family:Georgia;
+        font-size:15px;
+        font-weight:bold;
+        font-style:normal;
+        height:41px;
+        line-height:41px;
+        width:153px;
+        text-decoration:none;
+        text-align:center;
+        text-shadow:1px 1px 0px #ffffff;
+    }
+    .emd_dl_grey:hover {
+        background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #dfdfdf), color-stop(1, #ededed) );
+        background:-moz-linear-gradient( center top, #dfdfdf 5%, #ededed 100% );
+        filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#dfdfdf', endColorstr='#ededed');
+        background-color:#dfdfdf;
+    }.emd_dl_grey:active {
+        position:relative;
+        top:1px;
+    }
+    </style></code></p>
+<p><code class="plain plain"> Half Pedal:       <a href="/wp-content/uploads/2017/09/Main-Theme-Fairy-Tail-HALF-PEDAL.mid" target="_self" class="emd_dl_grey">MIDI download</a>
+        <style type="text/css">
+    .emd_dl_grey {
+        -moz-box-shadow:inset 0px 1px 0px 0px #ffffff;
+        -webkit-box-shadow:inset 0px 1px 0px 0px #ffffff;
+        box-shadow:inset 0px 1px 0px 0px #ffffff;
+        background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #ededed), color-stop(1, #dfdfdf) );
+        background:-moz-linear-gradient( center top, #ededed 5%, #dfdfdf 100% );
+        filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#ededed', endColorstr='#dfdfdf');
+        background-color:#ededed;
+        -webkit-border-top-left-radius:0px;
+        -moz-border-radius-topleft:0px;
+        border-top-left-radius:0px;
+        -webkit-border-top-right-radius:0px;
+        -moz-border-radius-topright:0px;
+        border-top-right-radius:0px;
+        -webkit-border-bottom-right-radius:0px;
+        -moz-border-radius-bottomright:0px;
+        border-bottom-right-radius:0px;
+        -webkit-border-bottom-left-radius:0px;
+        -moz-border-radius-bottomleft:0px;
+        border-bottom-left-radius:0px;
+        text-indent:0;
+        border:1px solid #dcdcdc;
+        display:inline-block;
+        color:#777777 !important;
+        font-family:Georgia;
+        font-size:15px;
+        font-weight:bold;
+        font-style:normal;
+        height:41px;
+        line-height:41px;
+        width:153px;
+        text-decoration:none;
+        text-align:center;
+        text-shadow:1px 1px 0px #ffffff;
+    }
+    .emd_dl_grey:hover {
+        background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #dfdfdf), color-stop(1, #ededed) );
+        background:-moz-linear-gradient( center top, #dfdfdf 5%, #ededed 100% );
+        filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#dfdfdf', endColorstr='#ededed');
+        background-color:#dfdfdf;
+    }.emd_dl_grey:active {
+        position:relative;
+        top:1px;
+    }
+    </style>       <a href="/wp-content/uploads/2017/09/Fairy-Tail-Half-Pedal-The-White-Piano-Key.pdf" target="_self" class="emd_dl_grey">SHEETS download</a>
+        <style type="text/css">
+    .emd_dl_grey {
+        -moz-box-shadow:inset 0px 1px 0px 0px #ffffff;
+        -webkit-box-shadow:inset 0px 1px 0px 0px #ffffff;
+        box-shadow:inset 0px 1px 0px 0px #ffffff;
+        background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #ededed), color-stop(1, #dfdfdf) );
+        background:-moz-linear-gradient( center top, #ededed 5%, #dfdfdf 100% );
+        filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#ededed', endColorstr='#dfdfdf');
+        background-color:#ededed;
+        -webkit-border-top-left-radius:0px;
+        -moz-border-radius-topleft:0px;
+        border-top-left-radius:0px;
+        -webkit-border-top-right-radius:0px;
+        -moz-border-radius-topright:0px;
+        border-top-right-radius:0px;
+        -webkit-border-bottom-right-radius:0px;
+        -moz-border-radius-bottomright:0px;
+        border-bottom-right-radius:0px;
+        -webkit-border-bottom-left-radius:0px;
+        -moz-border-radius-bottomleft:0px;
+        border-bottom-left-radius:0px;
+        text-indent:0;
+        border:1px solid #dcdcdc;
+        display:inline-block;
+        color:#777777 !important;
+        font-family:Georgia;
+        font-size:15px;
+        font-weight:bold;
+        font-style:normal;
+        height:41px;
+        line-height:41px;
+        width:153px;
+        text-decoration:none;
+        text-align:center;
+        text-shadow:1px 1px 0px #ffffff;
+    }
+    .emd_dl_grey:hover {
+        background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #dfdfdf), color-stop(1, #ededed) );
+        background:-moz-linear-gradient( center top, #dfdfdf 5%, #ededed 100% );
+        filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#dfdfdf', endColorstr='#ededed');
+        background-color:#dfdfdf;
+    }.emd_dl_grey:active {
+        position:relative;
+        top:1px;
+    }
+    </style>       <a href="/wp-content/uploads/2017/09/Fairy-Tail-Main-Theme-Half-Pedal-The-White-Piano-Key.mp3" target="_self" class="emd_dl_grey">MP3 download</a>
+        <style type="text/css">
+    .emd_dl_grey {
+        -moz-box-shadow:inset 0px 1px 0px 0px #ffffff;
+        -webkit-box-shadow:inset 0px 1px 0px 0px #ffffff;
+        box-shadow:inset 0px 1px 0px 0px #ffffff;
+        background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #ededed), color-stop(1, #dfdfdf) );
+        background:-moz-linear-gradient( center top, #ededed 5%, #dfdfdf 100% );
+        filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#ededed', endColorstr='#dfdfdf');
+        background-color:#ededed;
+        -webkit-border-top-left-radius:0px;
+        -moz-border-radius-topleft:0px;
+        border-top-left-radius:0px;
+        -webkit-border-top-right-radius:0px;
+        -moz-border-radius-topright:0px;
+        border-top-right-radius:0px;
+        -webkit-border-bottom-right-radius:0px;
+        -moz-border-radius-bottomright:0px;
+        border-bottom-right-radius:0px;
+        -webkit-border-bottom-left-radius:0px;
+        -moz-border-radius-bottomleft:0px;
+        border-bottom-left-radius:0px;
+        text-indent:0;
+        border:1px solid #dcdcdc;
+        display:inline-block;
+        color:#777777 !important;
+        font-family:Georgia;
+        font-size:15px;
+        font-weight:bold;
+        font-style:normal;
+        height:41px;
+        line-height:41px;
+        width:153px;
+        text-decoration:none;
+        text-align:center;
+        text-shadow:1px 1px 0px #ffffff;
+    }
+    .emd_dl_grey:hover {
+        background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #dfdfdf), color-stop(1, #ededed) );
+        background:-moz-linear-gradient( center top, #dfdfdf 5%, #ededed 100% );
+        filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#dfdfdf', endColorstr='#ededed');
+        background-color:#dfdfdf;
+    }.emd_dl_grey:active {
+        position:relative;
+        top:1px;
+    }
+    </style></code></p>
+<p><iframe width="688" height="387" src="https://www.youtube.com/embed/_ds-ycalA6s?feature=oembed" frameborder="0" allowfullscreen></iframe></p>
+<hr style="border-top:black solid 1px" /><a href="/fairy-tail-main-theme/">Fairy Tail &#8211; Main theme</a> was first posted on September 7, 2017 at 4:10 pm.<br />&copy;2017 &quot;<a href="">The White Piano Key</a>&quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringement. Please contact me at <!--email_off-->arno.defacq@gmail.com<!--/email_off--><br />]]></content:encoded>
+	<enclosure url="/wp-content/uploads/2017/09/Main-Theme-Fairy-Tail-FULL-PEDAL.mid" length="6007" type="audio/midi" />
+<enclosure url="/wp-content/uploads/2017/09/Fairy-Tail-Main-Theme-Full-Pedal-The-White-Piano-Key.mp3" length="5442954" type="audio/mpeg" />
+<enclosure url="/wp-content/uploads/2017/09/Main-Theme-Fairy-Tail-HALF-PEDAL.mid" length="6977" type="audio/midi" />
+<enclosure url="/wp-content/uploads/2017/09/Fairy-Tail-Main-Theme-Half-Pedal-The-White-Piano-Key.mp3" length="5363542" type="audio/mpeg" />
+		</item>
+	</channel>
+</rss>

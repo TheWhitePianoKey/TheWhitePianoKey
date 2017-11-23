@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Uncategorized &#8211; The White Piano Key</title>
+	<atom:link href="/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>video - animation - music</description>
+	<lastBuildDate>Thu, 23 Nov 2017 14:11:37 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.3</generator>
+
+<image>
+	<url>/wp-content/uploads/2017/11/cropped-logo-trans-more-32x32.png</url>
+	<title>Uncategorized &#8211; The White Piano Key</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Goya &#8211; Broove</title>
+		<link>/goya-broove/</link>
+		<pubDate>Wed, 13 Sep 2017 14:33:25 +0000</pubDate>
+		<dc:creator><![CDATA[TheWhitePianoKey]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">/?p=240</guid>
+		<description><![CDATA[<hr style="border-top:black solid 1px" /><a href="/goya-broove/">Goya &#8211; Broove</a> was first posted on September 13, 2017 at 2:33 pm.<br />&copy;2017 &quot;<a href="">The White Piano Key</a>&quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringement. Please contact me at <!--email_off-->arno.defacq@gmail.com<!--/email_off--><br />]]></description>
+				<content:encoded><![CDATA[<p><code class="plain plain">    <a href="/wp-content/uploads/2017/09/GOYA-Broove.mid" target="_self" class="emd_dl_grey">MIDI download</a>
+        <style type="text/css">
+    .emd_dl_grey {
+        -moz-box-shadow:inset 0px 1px 0px 0px #ffffff;
+        -webkit-box-shadow:inset 0px 1px 0px 0px #ffffff;
+        box-shadow:inset 0px 1px 0px 0px #ffffff;
+        background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #ededed), color-stop(1, #dfdfdf) );
+        background:-moz-linear-gradient( center top, #ededed 5%, #dfdfdf 100% );
+        filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#ededed', endColorstr='#dfdfdf');
+        background-color:#ededed;
+        -webkit-border-top-left-radius:0px;
+        -moz-border-radius-topleft:0px;
+        border-top-left-radius:0px;
+        -webkit-border-top-right-radius:0px;
+        -moz-border-radius-topright:0px;
+        border-top-right-radius:0px;
+        -webkit-border-bottom-right-radius:0px;
+        -moz-border-radius-bottomright:0px;
+        border-bottom-right-radius:0px;
+        -webkit-border-bottom-left-radius:0px;
+        -moz-border-radius-bottomleft:0px;
+        border-bottom-left-radius:0px;
+        text-indent:0;
+        border:1px solid #dcdcdc;
+        display:inline-block;
+        color:#777777 !important;
+        font-family:Georgia;
+        font-size:15px;
+        font-weight:bold;
+        font-style:normal;
+        height:41px;
+        line-height:41px;
+        width:153px;
+        text-decoration:none;
+        text-align:center;
+        text-shadow:1px 1px 0px #ffffff;
+    }
+    .emd_dl_grey:hover {
+        background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #dfdfdf), color-stop(1, #ededed) );
+        background:-moz-linear-gradient( center top, #dfdfdf 5%, #ededed 100% );
+        filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#dfdfdf', endColorstr='#ededed');
+        background-color:#dfdfdf;
+    }.emd_dl_grey:active {
+        position:relative;
+        top:1px;
+    }
+    </style>       <a href="/wp-content/uploads/2017/09/Goya-Broove-The-White-Piano-Key.pdf" target="_self" class="emd_dl_grey">SHEETS download</a>
+        <style type="text/css">
+    .emd_dl_grey {
+        -moz-box-shadow:inset 0px 1px 0px 0px #ffffff;
+        -webkit-box-shadow:inset 0px 1px 0px 0px #ffffff;
+        box-shadow:inset 0px 1px 0px 0px #ffffff;
+        background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #ededed), color-stop(1, #dfdfdf) );
+        background:-moz-linear-gradient( center top, #ededed 5%, #dfdfdf 100% );
+        filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#ededed', endColorstr='#dfdfdf');
+        background-color:#ededed;
+        -webkit-border-top-left-radius:0px;
+        -moz-border-radius-topleft:0px;
+        border-top-left-radius:0px;
+        -webkit-border-top-right-radius:0px;
+        -moz-border-radius-topright:0px;
+        border-top-right-radius:0px;
+        -webkit-border-bottom-right-radius:0px;
+        -moz-border-radius-bottomright:0px;
+        border-bottom-right-radius:0px;
+        -webkit-border-bottom-left-radius:0px;
+        -moz-border-radius-bottomleft:0px;
+        border-bottom-left-radius:0px;
+        text-indent:0;
+        border:1px solid #dcdcdc;
+        display:inline-block;
+        color:#777777 !important;
+        font-family:Georgia;
+        font-size:15px;
+        font-weight:bold;
+        font-style:normal;
+        height:41px;
+        line-height:41px;
+        width:153px;
+        text-decoration:none;
+        text-align:center;
+        text-shadow:1px 1px 0px #ffffff;
+    }
+    .emd_dl_grey:hover {
+        background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #dfdfdf), color-stop(1, #ededed) );
+        background:-moz-linear-gradient( center top, #dfdfdf 5%, #ededed 100% );
+        filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#dfdfdf', endColorstr='#ededed');
+        background-color:#dfdfdf;
+    }.emd_dl_grey:active {
+        position:relative;
+        top:1px;
+    }
+    </style>       <a href="/wp-content/uploads/2017/09/GOYA-BY-BROOVE-TheWhitePianoKey.mp3" target="_self" class="emd_dl_grey">MP3 download</a>
+        <style type="text/css">
+    .emd_dl_grey {
+        -moz-box-shadow:inset 0px 1px 0px 0px #ffffff;
+        -webkit-box-shadow:inset 0px 1px 0px 0px #ffffff;
+        box-shadow:inset 0px 1px 0px 0px #ffffff;
+        background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #ededed), color-stop(1, #dfdfdf) );
+        background:-moz-linear-gradient( center top, #ededed 5%, #dfdfdf 100% );
+        filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#ededed', endColorstr='#dfdfdf');
+        background-color:#ededed;
+        -webkit-border-top-left-radius:0px;
+        -moz-border-radius-topleft:0px;
+        border-top-left-radius:0px;
+        -webkit-border-top-right-radius:0px;
+        -moz-border-radius-topright:0px;
+        border-top-right-radius:0px;
+        -webkit-border-bottom-right-radius:0px;
+        -moz-border-radius-bottomright:0px;
+        border-bottom-right-radius:0px;
+        -webkit-border-bottom-left-radius:0px;
+        -moz-border-radius-bottomleft:0px;
+        border-bottom-left-radius:0px;
+        text-indent:0;
+        border:1px solid #dcdcdc;
+        display:inline-block;
+        color:#777777 !important;
+        font-family:Georgia;
+        font-size:15px;
+        font-weight:bold;
+        font-style:normal;
+        height:41px;
+        line-height:41px;
+        width:153px;
+        text-decoration:none;
+        text-align:center;
+        text-shadow:1px 1px 0px #ffffff;
+    }
+    .emd_dl_grey:hover {
+        background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #dfdfdf), color-stop(1, #ededed) );
+        background:-moz-linear-gradient( center top, #dfdfdf 5%, #ededed 100% );
+        filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#dfdfdf', endColorstr='#ededed');
+        background-color:#dfdfdf;
+    }.emd_dl_grey:active {
+        position:relative;
+        top:1px;
+    }
+    </style></code><br />
+<iframe width="688" height="387" src="https://www.youtube.com/embed/U9AGE8K8xfg?feature=oembed" frameborder="0" gesture="media" allowfullscreen></iframe></p>
+<hr style="border-top:black solid 1px" /><a href="/goya-broove/">Goya &#8211; Broove</a> was first posted on September 13, 2017 at 2:33 pm.<br />&copy;2017 &quot;<a href="">The White Piano Key</a>&quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringement. Please contact me at <!--email_off-->arno.defacq@gmail.com<!--/email_off--><br />]]></content:encoded>
+	<enclosure url="/wp-content/uploads/2017/09/GOYA-Broove.mid" length="10452" type="audio/midi" />
+<enclosure url="/wp-content/uploads/2017/09/GOYA-BY-BROOVE-TheWhitePianoKey.mp3" length="5475126" type="audio/mpeg" />
+		</item>
+	</channel>
+</rss>
