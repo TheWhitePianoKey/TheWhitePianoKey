@@ -12,11 +12,11 @@
 	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description>video - animation - music</description>
-	<lastBuildDate>Thu, 23 Nov 2017 14:11:37 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 14 Dec 2017 15:40:31 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.8.3</generator>
+	<generator>https://wordpress.org/?v=4.8.4</generator>
 
 <image>
 	<url>/wp-content/uploads/2017/11/cropped-logo-trans-more-32x32.png</url>
